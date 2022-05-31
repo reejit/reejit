@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python; Chatbots**
 
-- 📫 How to reach me **guardiansofspartax@outlook.com**
+- 📫 How to reach me **guardiansofspartax@gmail.com**
 
 - ⚡ Fun fact **I am not yet a developer**
 
